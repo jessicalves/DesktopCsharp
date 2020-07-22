@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BC1C992F-AD73-49B5-878F-BB77CCF6FBB1}</ProjectGuid>
+    <ProjectGuid>{1B90CE94-AB45-474E-9F09-B2FDB4516123}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>RestoDaDivisao</RootNamespace>
     <AssemblyName>RestoDaDivisao</AssemblyName>

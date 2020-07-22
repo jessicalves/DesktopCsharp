@@ -10,11 +10,19 @@ using System.Windows.Forms;
 
 namespace RestoDaDivisao
 {
-    public partial class Form1 : Form
+    public partial class frmRestoDeDivisao : Form
     {
-        public Form1()
+        public frmRestoDeDivisao()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int dividendo = Convert.ToInt32(txtDividendo.Text);
+            int divisor = Convert.ToInt32(txtDivisor.Text);
+            int resto = dividendo % divisor;
+            txtResto.Text = resto.ToString();
         }
     }
 }

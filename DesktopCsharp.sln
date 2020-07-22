@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoDaDivisao", "RestoDaDi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GastoEmRestaurante", "GastoEmRestaurante\GastoEmRestaurante.csproj", "{BCBFF3DA-0353-4720-B90B-3CB761AB689C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatriculaAluno", "MatriculaAluno\MatriculaAluno.csproj", "{37B64889-A77D-494B-B845-5F333965FF94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BCBFF3DA-0353-4720-B90B-3CB761AB689C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCBFF3DA-0353-4720-B90B-3CB761AB689C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCBFF3DA-0353-4720-B90B-3CB761AB689C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B64889-A77D-494B-B845-5F333965FF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B64889-A77D-494B-B845-5F333965FF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B64889-A77D-494B-B845-5F333965FF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B64889-A77D-494B-B845-5F333965FF94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

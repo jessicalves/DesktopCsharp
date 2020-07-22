@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrocaDeValores", "TrocaDeValores\TrocaDeValores.csproj", "{44D32A2E-9231-4439-845A-2A6BB5A7C739}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoDaDivisao", "RestoDaDivisao\RestoDaDivisao.csproj", "{BC1C992F-AD73-49B5-878F-BB77CCF6FBB1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{44D32A2E-9231-4439-845A-2A6BB5A7C739}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44D32A2E-9231-4439-845A-2A6BB5A7C739}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44D32A2E-9231-4439-845A-2A6BB5A7C739}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BC1C992F-AD73-49B5-878F-BB77CCF6FBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC1C992F-AD73-49B5-878F-BB77CCF6FBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC1C992F-AD73-49B5-878F-BB77CCF6FBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC1C992F-AD73-49B5-878F-BB77CCF6FBB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

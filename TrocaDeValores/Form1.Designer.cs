@@ -71,7 +71,7 @@
             // 
             this.button1.Image = global::TrocaDeValores.Properties.Resources.iconfinder_Left_right_32498;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(99, 50);
+            this.button1.Location = new System.Drawing.Point(81, 50);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 2;
